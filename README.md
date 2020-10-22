@@ -1,3 +1,5 @@
 # FAQ accordion card
 
-A Frontend Mentor challenge.
+A responsive faq accordion for a Frontend Mentor challenge.
+
+[Preview Site]()
