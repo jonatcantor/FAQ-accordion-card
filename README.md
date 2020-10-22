@@ -2,4 +2,4 @@
 
 A responsive faq accordion for a Frontend Mentor challenge.
 
-[Preview Site]()
+[Preview Site](https://jonathan-cantor.github.io/FAQ-accordion-card/)
