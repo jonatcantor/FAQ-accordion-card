@@ -4,7 +4,7 @@ A responsive faq accordion for a Frontend Mentor challenge.
 
 Made with only HTML, CSS and JS.
 
-<a href="https://jonathan-cantor.github.io/FAQ-accordion-card/" target="_blank" rel="noopener noreferrer">Preview Site</a>
+[Preview Site]("https://jonathan-cantor.github.io/FAQ-accordion-card/")
 
 ## Image
 
