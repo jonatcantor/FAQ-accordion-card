@@ -62,6 +62,7 @@ footer a {
   background-color: white;
   border-radius: 2rem;
   padding-top: 8rem;
+  box-shadow: 0 10px 15px -5px hsl(237, 12%, 33%);
 }
 
 /* content */
