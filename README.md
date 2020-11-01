@@ -4,7 +4,7 @@ A responsive faq accordion for a [Frontend Mentor challenge](https://www.fronten
 
 Made with only HTML, CSS and JS.
 
-[Preview Site](https://jonathan-cantor.github.io/FAQ-accordion-card/)
+[Preview Site](https://jonatcantor.github.io/FAQ-accordion-card/)
 
 ## Image
 
